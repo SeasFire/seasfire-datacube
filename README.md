@@ -21,7 +21,7 @@ Seasfire Project Website: https://seasfire.hua.gr/earth-as-a-graph/
 - ...
 
 ### Contact Us 
-- Email ID
+- Email ID ipapoutsis@noa.gr
 
 ### Register your interest 
 - Sign up for regular updates here: https://forms.gle/a1Q2ZZJXBgRFqq1S9
