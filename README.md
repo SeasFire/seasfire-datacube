@@ -19,6 +19,7 @@ Seasfire Project Website: https://seasfire.hua.gr/earth-as-a-graph/
 ### Contributors 
 - Ahuja Akanksha (NOA)
 - Alonso Lazaro (MPG) 
+- Fabian Gan (MPG)
 - Carvalhais Nuno (MPG)
 - Karasante Ilektra (NOA)
 - Papoutsis Ioannis (NOA)
