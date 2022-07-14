@@ -17,9 +17,12 @@ Seasfire Project Website: https://seasfire.hua.gr/earth-as-a-graph/
 - Dataset is released in July 2022, we will keep this updated. 
 
 ### Contributors 
-- Ahuja Akanksha (NOA), Alonso Lazaro (MPG), 
-- Carvalhais Nuno (MPG), Karasante Ilektra  (NOA),
-- Papoutsis Ioannis (NOA), Prapas  Ioannis  (NOA)
+- Ahuja Akanksha (NOA)
+- Alonso Lazaro (MPG) 
+- Carvalhais Nuno (MPG)
+- Karasante Ilektra (NOA)
+- Papoutsis Ioannis (NOA)
+- Prapas  Ioannis (NOA)
 
 ### Contact Us 
 - Email ID ipapoutsis@noa.gr
