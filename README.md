@@ -3,8 +3,8 @@ An open and accessible datacube for environmental and earth system monitoring
 
 ### Tutorial -  How to use  
 A simple walkthrough to open the dataset, filter it based on location and time and visualise the features.  
-- Python Tutorial 
-- Julia Tutorial 
+- [Python Tutorial](Tutorial/Seasfire_datacube_tutorial.ipynb) 
+- [Julia Tutorial](Julia-Tutorial/tutorial.ipynb)
 
 ### Website 
 - Seasfire Project Website: https://seasfire.hua.gr/earth-as-a-graph/
