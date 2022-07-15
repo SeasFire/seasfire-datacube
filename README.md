@@ -26,6 +26,7 @@ A simple walkthrough to open the dataset, filter it based on location and time a
 - Karasante Ilektra (NOA)
 - Papoutsis Ioannis (NOA)
 - Prapas  Ioannis (NOA)
+- Eleanna Panagiotou (HUA)
 
 ### Contact Us 
 - Email ID ipapoutsis@noa.gr
