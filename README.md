@@ -1,4 +1,4 @@
-# Seasfire Datacube
+# SeasFire Cube: A Global Dataset for Seasonal Fire Modeling in the Earth System
 An open and accessible datacube for environmental and earth system monitoring 
 
 ### Tutorial -  How to use  
