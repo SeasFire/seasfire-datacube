@@ -10,7 +10,7 @@ A simple walkthrough to open the dataset, filter it based on location and time a
 - Seasfire Project Website: https://seasfire.hua.gr/earth-as-a-graph/
 
 ### Zenodo
-- Dataset: https://zenodo.org/record/6834585#.YtEnNOwzaL9
+- Dataset: https://doi.org/10.5281/zenodo.6834585
 
 ### Cite As 
 - Alonso, Lazaro, Gans, Fabian, Karasante, Ilektra, Ahuja, Akanksha, Prapas, Ioannis, Kondylatos, Spyros, Papoutsis, Ioannis, Panagiotou, Eleannna, Mihail, Dimitrios, Cremer, Felix, Weber, Ulrich, & Carvalhais, Nuno. (2022). SeasFire Cube: A Global Dataset for Seasonal Fire Modeling in the Earth System (0.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6834585
