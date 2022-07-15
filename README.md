@@ -3,9 +3,11 @@ An open and accessible datacube for environmental and earth system monitoring
 
 ### Tutorial -  How to use  
 A simple walkthrough to open the dataset, filter it based on location and time and visualise the features.  
+- Python Tutorial 
+- Julia Tutorial 
 
 ### Website 
-Seasfire Project Website: https://seasfire.hua.gr/earth-as-a-graph/
+- Seasfire Project Website: https://seasfire.hua.gr/earth-as-a-graph/
 
 ### Zenodo
 - Dataset: https://zenodo.org/record/6834585#.YtEnNOwzaL9
