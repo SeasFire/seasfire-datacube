@@ -19,14 +19,14 @@ A simple walkthrough to open the dataset, filter it based on location and time a
 - Dataset is released in July 2022, we will keep this updated. 
 
 ### Contributors 
-- Ahuja Akanksha (NOA)
-- Alonso Lazaro (MPG) 
-- Fabian Gan (MPG)
-- Carvalhais Nuno (MPG)
-- Karasante Ilektra (NOA)
-- Papoutsis Ioannis (NOA)
-- Prapas  Ioannis (NOA)
-- Eleanna Panagiotou (HUA)
+- Akanksha Ahuja 
+- Lazaro Alonso 
+- Gan Fabian
+- Nuno Carvalhais
+- Ilektra Karasante
+- Ioannis Papoutsis 
+- Ioannis Prapas 
+- Eleanna Panagiotou
 
 ### Contact Us 
 - Email ID ipapoutsis@noa.gr
