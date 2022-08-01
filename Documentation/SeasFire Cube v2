@@ -1,0 +1,11 @@
+Changes for version 2 of the SeasFire Cube 
+
+Insert:
+
+1. Land Cover - pending (**Ilektra**)
+
+Update: 
+
+1. Population density (all filled with Nan) - fixed (**Ilektra**)
+2. Solar radiation downwards (Nan values for 2020 and 2021) - pending (**Lazaro**)
+3. CAMS CO2 and FRP (unpack some yearly .nc format data) - pending (**Ilektra**)
