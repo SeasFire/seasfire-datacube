@@ -4,7 +4,8 @@ An open and accessible datacube for environmental and earth system monitoring
 ### Tutorial -  How to use  
 A simple walkthrough to open the dataset, filter it based on location and time and visualise the features.  
 - [Python Tutorial](Python-Tutorials/Seasfire_datacube_tutorial.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SeasFire/seasfire-datacube/HEAD?labpath=https%3A%2F%2Fgithub.com%2FSeasFire%2Fseasfire-datacube%2Fblob%2Fmain%2FPython-Tutorials%2FSeasfire_datacube_tutorial.ipynb)
-- [Julia Tutorial](Julia-Tutorial/tutorial.ipynb)
+- [Julia Tutorial](Julia-Tutorial/tutorial.ipynb) [![Julia Tutorial](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SeasFire/seasfire-datacube/tree/main/Julia-Tutorial/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FSeasFire%2Fseasfire-datacube%2Fblob%2Fmain%2FJulia-Tutorial%2Ftutorial.ipynb)
+
 
 ### Website 
 - Seasfire Project Website: https://seasfire.hua.gr/earth-as-a-graph/
