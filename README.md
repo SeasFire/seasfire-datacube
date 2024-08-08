@@ -3,7 +3,7 @@ An open and accessible datacube for environmental and earth system monitoring
 
 ### Tutorial -  How to use  
 A simple walkthrough to open the dataset, filter it based on location and time and visualise the features.  
-- [Python Tutorial](Tutorial/Seasfire_datacube_tutorial.ipynb) 
+- [Python Tutorial](Python-Tutorials/Seasfire_datacube_tutorial.ipynb) 
 - [Julia Tutorial](Julia-Tutorial/tutorial.ipynb)
 
 ### Website 
