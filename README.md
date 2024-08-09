@@ -3,7 +3,7 @@ An open and accessible datacube for environmental and earth system monitoring
 
 ### Tutorial -  How to use  
 A simple walkthrough to open the dataset, filter it based on location and time and visualise the features.  
-- Python Tutorial [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SeasFire/seasfire-datacube/main?labpath=Seasfire_datacube_tutorial.ipynb)
+- Python Tutorial [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SeasFire/seasfire-datacube/main?labpath=Python-Tutorials%2FSeasfire_datacube_tutorial.ipynb)
 - Julia Tutorial [![Julia Tutorial](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SeasFire/seasfire-datacube/main?urlpath=https%3A%2F%2Fgithub.com%2FSeasFire%2Fseasfire-datacube%2Fblob%2Fmain%2FJulia-Tutorial%2Ftutorial.ipynb)
   
 
