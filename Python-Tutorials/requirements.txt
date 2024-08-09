@@ -1,0 +1,4 @@
+numpy==1.24.2
+matplotlib==3.7.1
+xarray==2024.2.0
+zarr==2.14.0
