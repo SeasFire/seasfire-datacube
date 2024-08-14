@@ -1,5 +1,5 @@
 # SeasFire Cube: A Global Dataset for Seasonal Fire Modeling in the Earth System
-An open and accessible datacube for environmental and earth system monitoring 
+An open and accessible datacube for environmental and Earth system monitoring 
 
 ### Tutorial -  How to use  
 A simple walkthrough to open the dataset, filter it based on location and time and visualise the features.  
