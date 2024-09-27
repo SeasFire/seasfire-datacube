@@ -4,7 +4,7 @@ An open and accessible datacube for environmental and Earth system monitoring
 ### Tutorial -  How to use  
 A simple walkthrough to open the dataset, filter it based on location and time and visualise the features.  
 - Python Tutorial  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GpP8G_maDApNRl4GbRY4UgCggna942xz?usp=sharing)
-- Julia Tutorial [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SeasFire/seasfire-datacube/main?labpath=Julia-Tutorial%2Ftutorial.ipynb)
+- Julia Tutorial 
 
 
 ### Tutorial -  How to add new variables [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kJhjEck_CN3xraAegYZNQIbtG7L58jRe?usp=sharing)
