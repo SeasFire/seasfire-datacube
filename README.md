@@ -16,7 +16,7 @@ A simple walkthrough to open the dataset, filter it based on location and time a
 - Dataset latest version: [https://doi.org/10.5281/zenodo.13834057](https://zenodo.org/records/13834057)
 
 ### Cite As 
-- Alonso, Lazaro, Gans, Fabian, Karasante, Ilektra, Ahuja, Akanksha, Prapas, Ioannis, Kondylatos, Spyros, Papoutsis, Ioannis, Panagiotou, Eleannna, Michail, Dimitrios, Cremer, Felix, Weber, Ulrich, & Carvalhais, Nuno. (2022). SeasFire Cube: A Global Dataset for Seasonal Fire Modeling in the Earth System (0.0.3) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8055879
+- Alonso, Lazaro, Gans, Fabian, Karasante, Ilektra, Ahuja, Akanksha, Prapas, Ioannis, Kondylatos, Spyros, Papoutsis, Ioannis, Panagiotou, Eleannna, Michail, Dimitrios, Cremer, Felix, Weber, Ulrich, & Carvalhais, Nuno. (2022). SeasFire Cube: A Global Dataset for Seasonal Fire Modeling in the Earth System (0.4) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13834057
 
 
 ### Contributors 
